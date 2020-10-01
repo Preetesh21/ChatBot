@@ -152,6 +152,12 @@
             "patterns": [""],
             "responses": ["Loading hospital details"],
             "context": [""]
+        },
+        {
+            "tag": "Contact",
+            "patterns": ["Could I get contact details of someone who can help me better?"],
+            "responses": ["Sure!Here's the mail address of Preetesh Sir - preetesh@company.com"],
+            "context": [""]
         }
     ]
 }
